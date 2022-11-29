@@ -1,1 +1,1 @@
-# InstaAssignment
+# Instagram clone assignment.
